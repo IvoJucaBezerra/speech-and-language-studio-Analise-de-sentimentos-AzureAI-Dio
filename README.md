@@ -18,6 +18,8 @@ DOCUMENTAÇÃO: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Inst
 
 
 # Análise de sentimento e opiniões  
+
+DOCUMENTAÇÃO: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
  
 1. Acesse a página web: https://language.cognitive.azure.com/home  
 2. Clique em "Analyse sentiment and mine opinions"  
