@@ -1,0 +1,257 @@
+`[
+    {
+        "Id": "c698692575374e1bb86abd20bac28bd1",
+        "RecognitionStatus": 0,
+        "Offset": 10100000,
+        "Duration": 32400000,
+        "Channel": 0,
+        "DisplayText": "Criando um arquivo de texto através da fala.",
+        "NBest": [
+            {
+                "Confidence": 0.95572335,
+                "Lexical": "criando um arquivo de texto através da fala",
+                "ITN": "criando um arquivo de texto através da fala",
+                "MaskedITN": "criando um arquivo de texto através da fala",
+                "Display": "Criando um arquivo de texto através da fala.",
+                "Words": [
+                    {
+                        "Word": "criando",
+                        "Offset": 10100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 15700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "arquivo",
+                        "Offset": 16900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 22100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "texto",
+                        "Offset": 23700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "através",
+                        "Offset": 29300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 36100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "fala",
+                        "Offset": 37300000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.95572335,
+                "Lexical": "criando um arquivo de texto através da fala",
+                "ITN": "criando um arquivo de texto através da fala",
+                "MaskedITN": "criando um arquivo de texto através da fala",
+                "Display": "criando um arquivo de texto através da fala",
+                "Words": [
+                    {
+                        "Word": "criando",
+                        "Offset": 10100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 15700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "arquivo",
+                        "Offset": 16900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 22100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "texto",
+                        "Offset": 23700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "através",
+                        "Offset": 29300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 36100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "fala",
+                        "Offset": 37300000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.95572335,
+                "Lexical": "criando um arquivo de texto através da fala",
+                "ITN": "criando um arquivo de texto através da fala",
+                "MaskedITN": "criando um arquivo de texto através da fala",
+                "Display": "criando um arquivo de texto através da fala",
+                "Words": [
+                    {
+                        "Word": "criando",
+                        "Offset": 10100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 15700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "arquivo",
+                        "Offset": 16900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 22100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "texto",
+                        "Offset": 23700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "através",
+                        "Offset": 29300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 36100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "fala",
+                        "Offset": 37300000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.95572335,
+                "Lexical": "criando um arquivo de texto através da fala",
+                "ITN": "criando um arquivo de texto através da fala",
+                "MaskedITN": "criando um arquivo de texto através da fala",
+                "Display": "criando um arquivo de texto através da fala",
+                "Words": [
+                    {
+                        "Word": "criando",
+                        "Offset": 10100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 15700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "arquivo",
+                        "Offset": 16900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 22100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "texto",
+                        "Offset": 23700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "através",
+                        "Offset": 29300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 36100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "fala",
+                        "Offset": 37300000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.95572335,
+                "Lexical": "criando um arquivo de texto através da fala",
+                "ITN": "criando um arquivo de texto através da fala",
+                "MaskedITN": "criando um arquivo de texto através da fala",
+                "Display": "criando um arquivo de texto através da fala",
+                "Words": [
+                    {
+                        "Word": "criando",
+                        "Offset": 10100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 15700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "arquivo",
+                        "Offset": 16900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 22100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "texto",
+                        "Offset": 23700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "através",
+                        "Offset": 29300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 36100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "fala",
+                        "Offset": 37300000,
+                        "Duration": 5200000
+                    }
+                ]
+            }
+        ]
+    }
+]`
