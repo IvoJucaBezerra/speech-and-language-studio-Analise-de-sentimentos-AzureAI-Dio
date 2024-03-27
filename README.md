@@ -20,9 +20,19 @@ DOCUMENTAÇÃO: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Inst
 # Análise de sentimento e opiniões  
 
 DOCUMENTAÇÃO: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
+
+Crie um recurso de Análise texto no portal Azure:
+
+![Criando Recurso](https://github.com/IvoJucaBezerra/speech-and-language-studio-Analise-de-sentimentos-AzureAI-Dio/blob/main/outputs-languageStudio/criarRecursoAnaliseTexto.png)
+
+
  
-1. Acesse a página web: https://language.cognitive.azure.com/home  
-2. Clique em "Analyse sentiment and mine opinions"  
-3. Selecione o idioma do texto "Select text language"  
-4. Selecione o recurso a ser utilizado "Select your Azure resorce"  
-5. Copie ou faça uploud de um texto para a análise  
+1. Acesse a página web: https://language.cognitive.azure.com/home
+   e selecione o recurso criado anteriormente para começar a testar:
+
+   ![Selecionar recurso criado](https://github.com/IvoJucaBezerra/speech-and-language-studio-Analise-de-sentimentos-AzureAI-Dio/blob/main/outputs-languageStudio/selecionandoRecursoCriado.png)
+   
+3. Clique em "Analyse sentiment and mine opinions"  
+4. Selecione o idioma do texto "Select text language"  
+5. Selecione o recurso a ser utilizado "Select your Azure resorce"  
+6. Copie ou faça uploud de um texto para a análise  
