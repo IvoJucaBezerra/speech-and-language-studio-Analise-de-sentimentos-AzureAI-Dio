@@ -3,7 +3,7 @@ Laboratório Dio - Azure Speech Studio e Language Studio
 
 # Converter fala em texto 
 
-##  [DOCUMENTAÇÃO](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html)
+DOCUMENTAÇÃO: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html
 
 1. Acesse a página web: https://speech.microsoft.com/portal  
 2. Clique em "Conversão de fala em texto em tempo real"  
