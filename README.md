@@ -8,7 +8,11 @@ Laboratório Dio - Azure Speech Studio e Language Studio
 3. Selecione o idioma "Escolher um idioma"  
 4. Grave um diálogo ou faça upload de um arquivo de áudio para ser analisado
 
-   ![Fala para Texto](https://github.com/IvoJucaBezerra/speech-and-language-studio-Analise-de-sentimentos-AzureAI-Dio/blob/main/output/falaParaTexto.png) 
+   ![Fala para Texto](https://github.com/IvoJucaBezerra/speech-and-language-studio-Analise-de-sentimentos-AzureAI-Dio/blob/main/output/falaParaTexto.png)
+
+   Exemplo JSON:
+
+   ![Tela JSON](https://github.com/IvoJucaBezerra/speech-and-language-studio-Analise-de-sentimentos-AzureAI-Dio/blob/main/output/falaParaTexto2.png)
 
 
 # Análise de sentimento e opiniões  
