@@ -32,7 +32,18 @@ Crie um recurso de Análise texto no portal Azure:
 
    ![Selecionar recurso criado](https://github.com/IvoJucaBezerra/speech-and-language-studio-Analise-de-sentimentos-AzureAI-Dio/blob/main/outputs-languageStudio/selecionandoRecursoCriado.png)
    
-3. Clique em "Analyse sentiment and mine opinions"  
-4. Selecione o idioma do texto "Select text language"  
-5. Selecione o recurso a ser utilizado "Select your Azure resorce"  
-6. Copie ou faça uploud de um texto para a análise  
+2. Clique em "Analyse sentiment and mine opinions"  
+3. Selecione o idioma do texto "Select text language" :
+ ![language](https://github.com/IvoJucaBezerra/speech-and-language-studio-Analise-de-sentimentos-AzureAI-Dio/blob/main/outputs-languageStudio/analisandoTexto1.png)
+    
+4. Selecione o recurso a ser utilizado "Select your Azure resorce"  
+5. Copie ou faça uploud de um texto para a análise (usei o texto recomendado na documentação):
+
+   ![results](https://github.com/IvoJucaBezerra/speech-and-language-studio-Analise-de-sentimentos-AzureAI-Dio/blob/main/outputs-languageStudio/examinandoResults.png)
+
+   ![examsentence](https://github.com/IvoJucaBezerra/speech-and-language-studio-Analise-de-sentimentos-AzureAI-Dio/blob/main/outputs-languageStudio/examinandoSentencas.png)
+
+ 
+   
+
+   
