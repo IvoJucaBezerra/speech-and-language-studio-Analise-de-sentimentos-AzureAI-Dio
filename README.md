@@ -6,7 +6,9 @@ Laboratório Dio - Azure Speech Studio e Language Studio
 1. Acesse a página web: https://speech.microsoft.com/portal  
 2. Clique em "Conversão de fala em texto em tempo real"  
 3. Selecione o idioma "Escolher um idioma"  
-4. Grave um diálogo ou faça upload de um arquivo de áudio para ser analisado  
+4. Grave um diálogo ou faça upload de um arquivo de áudio para ser analisado
+
+   ![Fala para Texto](https://github.com/IvoJucaBezerra/speech-and-language-studio-Analise-de-sentimentos-AzureAI-Dio/blob/main/output/falaParaTexto.png) 
 
 
 # Análise de sentimento e opiniões  
